@@ -8,7 +8,7 @@
     자세한것은 위 링크를 타고 Web-Portfolio-Profile>About 이나 Web-Portfolio-Profile>Roadmap을 살펴보시면 됩니다. <br>
 </p>
 <p>
-Studying 
+Studying ~ <br>
 "Web" (HTML+Js+CSS) + React
 </p>
 
