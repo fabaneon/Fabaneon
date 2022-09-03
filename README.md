@@ -1,4 +1,16 @@
-### Hi there 👋
+<link rel="stylesheet" src="style.css">
+<h1>Greeting.</h1>
+<p>
+  <h1 id ="title">Fabaneon</h1>
+    <li>Brith</li> 
+    2001.04.03
+    <li>Primary Skill</li>
+        Web(Html + Js + Css)
+    <li>Studying</li>
+        React, p5.js, Ajax, Node.js
+    <li>Postion</li>    
+    PM, Level Designer, Planner
+</p>
 
 <!--
 **fabaneon/Fabaneon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
