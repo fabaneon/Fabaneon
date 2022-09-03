@@ -1,7 +1,6 @@
 <link rel="stylesheet" src="style.css">
 <p>
   <h1 id ="title">Fabaneon</h1>
-  <img src="profile.png"> <br>
     <li>Web Profile</li>
     <a href="https://fabaneon.github.io/Portfolio-Profile_Website/">Web-Portfolio-Profile</a><br>
     지금은 군대에 갇혀있는 01년생 남자입니다.. (2022.03 ~ 2023.09) <br>
