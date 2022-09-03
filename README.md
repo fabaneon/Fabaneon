@@ -7,6 +7,10 @@
     현재 FrontEnd과정을 기초부터 다시 닦아가고있으며 중간 최종 결과물 제작 후 BackEnd로 넘어갈계획입니다. <br>
     자세한것은 위 링크를 타고 Web-Portfolio-Profile>About 이나 Web-Portfolio-Profile>Roadmap을 살펴보시면 됩니다. <br>
 </p>
+<p>
+Studying 
+"Web" (HTML+Js+CSS) + React
+</p>
 
 <!--
 **fabaneon/Fabaneon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
