@@ -6,9 +6,9 @@
     <a href="https://fabaneon.github.io/Portfolio-Profile_Website/">Web-Portfolio-Profile</a><br>
    <h3>공부</h3>
     <li>HTML</li>
-    <a href="https://fabaneon.github.io/HTML_STUDY/">React-Study</a><br>
+    <a href="https://fabaneon.github.io/HTML_STUDY/">HTML-Study</a><br>
     <li>Javascript</li>
-    <a href="https://fabaneon.github.io/JavaScript_Study/">React-Study</a><br>
+    <a href="https://fabaneon.github.io/JavaScript_Study/">Javascript-Study</a><br>
     <li>React</li>
     <a href="https://fabaneon.github.io/React-study/">React-Study</a><br>
     지금은 군대에 갇혀있는 01년생 남대생입니다.( 복무기간 / 2022.03 ~ 2023.09) <br>
