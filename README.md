@@ -18,7 +18,8 @@
 </p>
 <p>
 Studying ~ <br>
-"Web" (HTML+Js+CSS) + React
+"Web" (HTML+Js+CSS) + React <br>
+"Web Motion Graphic" (p5.js)
 </p>
 
 <!--
