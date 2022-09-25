@@ -21,7 +21,7 @@
 </p>
 <p>
 Studying ~ <br>
-"Web" (HTML+Js+CSS) + React <br>
+"Web" (HTML+Js+CSS) + React(Next.js) <br>
 
 "Web Motion Graphic" (p5.js + WebGL) <br>
 
