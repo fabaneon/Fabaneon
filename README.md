@@ -6,9 +6,9 @@
     <a href="https://fabaneon.github.io/Portfolio-Profile_Website/">Web-Portfolio-Profile</a><br>
    <h3>공부</h3>
    <ol>
-    <li>HTML</li>
+    <li>HTML [End]</li>
     <a href="https://fabaneon.github.io/HTML_STUDY/">HTML-Study</a><br>
-    <li>Javascript</li>
+    <li>Javascript [End]</li>
     <a href="https://fabaneon.github.io/JavaScript_Study/">Javascript-Study</a><br>
     <li>React</li>
     <a href="https://fabaneon.github.io/React-Web-Page/">React-Study</a><br>
