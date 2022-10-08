@@ -25,7 +25,7 @@
 Studying ~ <br>
 "Web" (HTML+Js+CSS) + React(Next.js) <br>
 
-"Web Motion Graphic" (p5.js + WebGL) <br>
+"Web Motion Graphic" (HTML5 Canvas + p5.js + WebGL) <br>
 
 "Math"
 (2,3차함수 + 삼각함수 + 기하와벡터)
