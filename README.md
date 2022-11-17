@@ -19,6 +19,7 @@
     따라서 지금의 전 FrontEnd과정을 기초부터 다시 닦아가고있으며 중간 최종 결과물 제작 후 BackEnd로 넘어갈계획입니다. <br>
     자세한것은 위 링크를 타고 Web-Portfolio-Profile>About 이나 Web-Portfolio-Profile>Roadmap을 살펴보시면 됩니다. <br>
     Start (2022.08.30 ~)
+  <br>
   <p>
     (2022.10.18)
     망할 사지방에 제한이 더 걸려서 터미널을 사용하지 못합니다.<br>
@@ -27,6 +28,13 @@
   </p>
    </ol>
  </p>
+ <br>
+ <p>
+  2022-11-07 ~ 11-17 코로나 격리 공백기간
+ </p>
+ <br>
+ 
+ 
 <p>
 Studying ~ <br>
 "Web" (HTML+Js+CSS) + React(Next.js) <br>
