@@ -43,6 +43,8 @@ Studying ~ <br>
 
 "Web Motion Graphic" (HTML5 Canvas + p5.js + WebGL) <br>
 
+"Python"
+
 "Math"
 (2,3차함수 + 삼각함수 + 기하와벡터)
 </p>
