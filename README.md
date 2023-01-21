@@ -17,12 +17,16 @@
     <a href="https://fabaneon.github.io/WebMotionGraphic/">Web Motion Graphic</a><br>
     <br/>  
     <li>Python-Basic</li>
-    <a href="https://python-study-xafyx.run.goorm.app/">Python Repasitory</a><br>
+    <a href="https://python-study-xafyx.run.goorm.app/">Python 구름IDE 서버</a><br>
+    서버 셋팅을 구름IDE에 해놔서 그냥 그쪽 서버로 직통 연결됩니다.
+    
+  <p>
     지금은 군대에 갇혀있는 01년생 남자입니다.( 복무기간 / 2022.03 ~ 2023.09) <br>
     과거 학창시절엔 FullStack으로 공부를 했었지만 지난 3~4년간 다른 분야에 집중하며 모든 기술을 잊어버렸습니다. <br>
     따라서 지금의 전 FrontEnd과정을 기초부터 다시 닦아가고있으며 중간 최종 결과물 제작 후 BackEnd로 넘어갈계획입니다. <br>
     자세한것은 위 링크를 타고 Web-Portfolio-Profile>About 이나 Web-Portfolio-Profile>Roadmap을 살펴보시면 됩니다. <br>
     Start (2022.08.30 ~)
+  </p>
   <br>
   <p>
     (2022.10.18)💬
