@@ -17,7 +17,7 @@
     <a href="https://fabaneon.github.io/WebMotionGraphic/">Web Motion Graphic</a><br>
     <br/>  
     <li>Python-Basic</li>
-    <a href="https://python-study-xafyx.run.goorm.app/">Python 구름IDE 서버</a><br>
+    <a href="https://goor.me/h5uERXSQNpjSyP588">Python 구름IDE 서버</a><br>
     서버 셋팅을 구름IDE에 해놔서 그냥 그쪽 서버로 직통 연결됩니다.
    </ol>
   <p>
